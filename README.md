@@ -7,7 +7,7 @@ I want someone's help to develop this project together
 
  you can use your imagination, create any cool effects by adding class in "coolModal.css". By the way, my code is not so good, you can edit it if you think you can code better.
  
- #the example to use this plugin
+ # the example to use this plugin
  
  ```
  <div id="content">
@@ -29,4 +29,4 @@ I want someone's help to develop this project together
 		});
 		myModal.open();
 </script>
-	```
+
